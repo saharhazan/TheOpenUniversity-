@@ -1,0 +1,13 @@
+#ifndef CONFIGURATIONS_H_
+#define CONFIGURATIONS_H_
+
+/* Macros */
+#define INSTRUCTION_COUNT	27
+#define ALLOC_INSTRUCTIONS_COUNT	6
+#define FILE_NAME_SIZE	20
+#define LABEL_SIZE	18
+#define MAX_VAR_NAME	10
+#define LINE_SIZE 80
+#define MAX_LABEL_CALL 10
+
+#endif
